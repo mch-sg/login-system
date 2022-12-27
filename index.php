@@ -7,7 +7,7 @@
     <?php
         if(isset($_SESSION["useruid"])){
             echo "<p>Hello there, ". $_SESSION["useruid"] . "</p>";
-            echo "<li><a href='includes/logout.inc.php'>Logout</a></li>";
+            // echo "<li><a href='includes/logout.inc.php'>Logout</a></li>";
         }
     ?>
 
