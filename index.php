@@ -9,7 +9,7 @@
             echo "<p>Hello there, ". $_SESSION["useruid"] . "</p>";
             // echo "<li><a href='includes/logout.inc.php'>Logout</a></li>";
         }
-    ?>
+    ?> 
 
     <h1>Home</h1>
     <p>Home page text</p>
